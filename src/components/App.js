@@ -24,4 +24,3 @@ const App = () => {
 };
 
 export default App;
-conditional-weather-report-sakshi-1140/src/components/App.js
